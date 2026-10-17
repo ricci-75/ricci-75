@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Eric
 
-<!--
-**ricci-75/ricci-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineer working on **robotics data** in my day job: ingesting, cleaning and structuring the data produced by robots so it can actually be used.
 
-Here are some ideas to get you started:
+This GitHub is my personal space. Here I share:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tools** to make everyday life easier
+- **Analyses** and experiments on datasets I find interesting
+
+Mostly Python, with a modern toolchain: `uv`, `ruff`, `ty`, `pytest`, Docker.
+
+## Latest projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Buy or Rent?](https://github.com/ricci-75/buy_or_rent) | A Streamlit app that helps you decide whether to buy or rent a home | Python, Streamlit |
+
+## Coming next
+
+- **My NBA App**: explore and visualize NBA stats
+- **French Pensions**: analysis of the French pension system budget
+- **My Strava**: a portable, self-hosted Strava-like app
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/eric-clerc) · [Email](mailto:eric.clerc160@gmail.com)
